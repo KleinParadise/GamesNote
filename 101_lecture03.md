@@ -15,9 +15,21 @@
 ***为什么要引入齐次坐标？***  
 
 对一个顶点(x,y)的位移操作,无法通过两矩阵的相乘来实现。  
-通过齐次坐标,可以让位移操作也满足线性变换。  
+![pic_one](/Image/trans5.png)  
+![pic_one](/Image/trans6.png)  
 
-### 先变换再平移
+通过齐次坐标,可以让位移操作也满足线性变换。  
+![pic_one](/Image/trans7.png)  
+![pic_one](/Image/trans8.png)  
+
+
+
+### 先变换再平移  
+![pic_one](/Image/trans9.png)  
+先平移在变换  
+![pic_one](/Image/trans10.png)   
+先变换再平移  
+![pic_one](/Image/trans11.png)  
 
 ### 复杂的顶点变换处理
 
