@@ -1,9 +1,13 @@
 ### 矩阵实现2D线性变换
 一个顶点(x,y)可以写成为一列的矩阵,再与对应功能的变换矩阵相乘,实现对顶点的变换
-1. ***Scale***  
-2. ***reflection***
-3. ***shear***
-3. ***rotate***
+1. ***Scale***   
+![pic_one](/Image/trans1.png)  
+2. ***reflection***  
+![pic_one](/Image/trans2.png)  
+3. ***shear***  
+![pic_one](/Image/trans3.png)  
+3. ***rotate***  
+![pic_one](/Image/trans4.png)  
 
 
 ### 齐次坐标
